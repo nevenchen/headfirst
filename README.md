@@ -12,4 +12,7 @@ git中文路径名称乱码
  让git mergetool不再生成烦人的备份文件（*.orig）
  git config --global mergetool.keepBackup false
  
- 3,
+ 3, 安装Lombok插件提高开发效率 
+Lombok官方api：https://projectlombok.org/features/index.html
+使用lombok之后，省去了许多没必要的get，set，toString，equals，hashCode代码，简化了代码编写，减少了代码量。
+另外@Data注解的作用相当于 @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode的合集。
