@@ -16,3 +16,5 @@ git中文路径名称乱码
 Lombok官方api：https://projectlombok.org/features/index.html
 使用lombok之后，省去了许多没必要的get，set，toString，equals，hashCode代码，简化了代码编写，减少了代码量。
 另外@Data注解的作用相当于 @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode的合集。
+
+4, 阿里巴巴Java开发手册IDEA插件使用指南
